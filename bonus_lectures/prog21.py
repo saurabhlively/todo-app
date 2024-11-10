@@ -1,5 +1,5 @@
 def get_avg():
-    with open('files\data.txt','r') as f:
+    with open('../files/data.txt', 'r') as f:
         data=f.readlines()
     values=data[1:]
     values = [float(i) for i in values]

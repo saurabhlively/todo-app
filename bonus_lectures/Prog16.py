@@ -1,4 +1,4 @@
-with open("files/doc.txt",'r') as f:
+with open("../files/doc.txt", 'r') as f:
     print(f.read())
     print(f.readlines())
 
