@@ -1,0 +1,5 @@
+clean
+play
+clean the bag
+play football
+Buy the painting
