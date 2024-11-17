@@ -1,0 +1,3 @@
+#Convert python code to standalone app so that it can run from anywhere:
+pyinstaller --onefile --windowed --clean <app.py>
+once done,share this exe with others

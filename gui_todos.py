@@ -3,8 +3,8 @@ import FreeSimpleGUI as sg
 import time
 import os
 
-if not os.path.exists('todos.txt'):
-    with open('todos.txt','w') as file:
+if not os.path.exists('../web_app1_cloud_deploy/todos.txt'):
+    with open('../web_app1_cloud_deploy/todos.txt','w') as file:
         pass
 
 
